@@ -1,0 +1,5 @@
+[user]
+	email = isomoar@gmail.com
+	name = Jane
+[core]
+	editor = /usr/local/bin/vim
