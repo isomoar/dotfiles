@@ -42,3 +42,9 @@ brew install tmux
 
 # tmux plugin manager
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+
+# fonts
+brew tap homebrew/cask-fonts
+brew cask install <font-name>
+
+
